@@ -27,7 +27,7 @@ This repository hosts the **Journey Of Life** Parish website template—built on
 
 ## Project Overview
 
-The **gyvenimo-kelias-template-parish** repository provides a turnkey website template tailored for parishes. It includes global layouts, shared components, and a tenant-onboarding dashboard for Bitrix24 multi-site setups. Designed for parish administrators, it supports service schedules, community news, booking, donations, and staff profiles in Lithuanian, English, and Russian.
+The **template-parish** repository provides a turnkey website template tailored for parishes. It includes global layouts, shared components, and a tenant-onboarding dashboard for Bitrix24 multi-site setups. Designed for parish administrators, it supports service schedules, community news, booking, donations, and staff profiles in Lithuanian, English, and Russian.
 
 ---
 
@@ -89,8 +89,8 @@ The **gyvenimo-kelias-template-parish** repository provides a turnkey website te
 ### Installation
 
 ```bash
-git clone https://github.com/gyvenimo-kelias/gyvenimo-kelias-template-parish.git
-cd gyvenimo-kelias-template-parish
+git clone https://github.com/JourneyOfLife/template-parish.git
+cd template-parish
 npm install          # or yarn install
 ```
 
@@ -180,4 +180,4 @@ For assistance or questions:
 
 - **Lead Architect:** Gintaras Kazlauskas  
 - **Email:** gintaras.kazlauskas@gyvenimo-kelias.lt  
-- **GitHub Issues:** https://github.com/gyvenimo-kelias/gyvenimo-kelias-template-parish/issues
+- **GitHub Issues:** https://github.com/JourneyOfLife/template-parish/issues
